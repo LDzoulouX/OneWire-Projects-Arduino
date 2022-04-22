@@ -1,4 +1,4 @@
-# OneWire-Projects-Arduino
+# OneWire Arduino
 
 ## Description
 Theses projects exist to try the capabilities of the One-Wire with the use of the Arduino and the switch DS2406.
